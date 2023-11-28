@@ -1,0 +1,223 @@
+
+.item-nav {
+    color: rgba(46, 47, 66, 1);
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+.item-nav:hover {
+    color: burlywood;
+}
+
+.section_1 {
+    background-color: rgba(46, 47, 66, 1);
+    width: 1440px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 188px;
+}
+
+
+.button-9 {
+  appearance: button;
+  backface-visibility: hidden;
+  background-color: #405cf5;
+  border-radius: 6px;
+  border-width: 0;
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset,rgba(50, 50, 93, .1) 0 2px 5px 0,rgba(0, 0, 0, .07) 0 1px 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: 'Roboto',sans-serif;
+  font-size: 16px;
+  height: 44px;
+  line-height: 1.15;
+  margin: 12px 0 0;
+  outline: none;
+  overflow: hidden;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transform: translateZ(0);
+  transition: all .2s,box-shadow .08s ease-in;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+}
+
+.button-9:disabled {
+  cursor: default;
+}
+
+.button-9:focus {
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(50, 151, 211, .3) 0 0 0 4px;
+}
+
+.btn {
+    width: 169px;
+    height: 56px;
+}
+
+.section_2 {
+    margin-top: 120px;
+}
+
+.pd-bott {
+    padding-bottom: 72px;
+}
+
+.text-zagolovok {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: rgba(46, 47, 66, 1);
+}
+
+.text-under-zag {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: rgba(67, 68, 85, 1);
+}
+
+.section_3 {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+h2 {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: rgba(46, 47, 66, 1);
+}
+
+.image-w-h {
+    max-width: 360px;
+    display: block;
+}
+
+.box-image {
+    max-width: 264px;
+    max-height: 380px;
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08);
+    box-shadow: 0px 1px 1px 0px rgba(46, 47, 66, 0.16);
+    box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
+
+.image_foto {
+    width: 100%;
+}
+
+.text_box-img {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: rgba(46, 47, 66, 1);
+}
+
+.pad-bott-our_team {
+    padding-bottom: 72px;
+}
+
+.displey-box-1 {
+    display: flex;
+    justify-content: left;
+}
+
+.displey-box-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.displey-box-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.displey-box-4 {
+    display: flex;
+    justify-content: right;
+}
+
+.box-image:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    cursor: pointer;
+}
+
+
+.displey-box-img-1 {
+    display: flex;
+    justify-content: left;
+}
+
+.displey-box-img-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.displey-box-img-3 {
+    display: flex;
+    justify-content: right;
+}
+
+.section_4 {
+    background-color: rgba(244, 244, 253, 1);
+    height: 732px;
+    padding-top: 120px;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.section-footer {
+    background-color: rgba(46, 47, 66, 1);
+    height: 312px;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.footer-pad-top {
+    padding-top: 100px;
+}
+
+.logo-footer-img {
+    max-width: 100%;
+}
+
+.text-footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: rgba(244, 244, 253, 1);
+    padding-top: 16px;
+}
